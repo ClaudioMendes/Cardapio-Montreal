@@ -1,4 +1,8 @@
 
+body {
+    background-color: #8000009d;
+}
+
 .container-admin-banner{
     display: flex;
     align-items: center;
@@ -6,8 +10,14 @@
     margin: 80px 0px 20px;
 }
 
-.logo-admin{
-    width: 400px;
+#logo-admin{
+    width: 200px;
+    border-radius: 50%;
+}
+
+#h1-adm {
+    margin: 15px 15px;
+    font-weight: bolder;
 }
 
 h2{
@@ -30,7 +40,7 @@ table, th, td{
 
 table th{
     padding: 11px 0 11px;
-    background-color: #EBC181;
+    background-color: #B38300;
     color: #333B1E;
     font-weight: bold;
     font-size: 18px;
@@ -47,6 +57,7 @@ table td{
     font-size: 18px;
     padding: 8px;
 }
+
 .container-admin-banner h1{
     margin-top: 40px;
     font-size: 30px;
@@ -98,14 +109,13 @@ table tbody tr td a:hover, .botao-cadastrar:hover, .botao-excluir:hover{
 .botao-cadastrar{
     background: #EBC181;
     color: #333B1E;
-    font-weight: 600;
+    font-weight: bolder;
     margin-top: 20px;
     font-size: 20px;
     border-radius: 10px;
     padding: 10px 10px;
     border: none;
 }
-
 
 .botao-editar{
     background: #9B8357;

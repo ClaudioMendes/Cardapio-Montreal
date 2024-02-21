@@ -44,7 +44,7 @@
     <link rel="icon" href="img/logo_montreal.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <title>Serenatto - Cadastrar Produto</title>
+    <title>Montreal - Cadastrar Produto</title>
 </head>
 <body>
 <main>
